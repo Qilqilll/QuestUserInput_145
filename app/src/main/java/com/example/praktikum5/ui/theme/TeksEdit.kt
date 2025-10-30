@@ -125,3 +125,7 @@ fun FormDataDiri(modifier: Modifier
                 Text(text = "Nama   :" + nama, color = Color.White)
                 Text(text = "Gender   :" + jenis, color = Color.White)
                 Text(text = "Alamat   :" + alamat, color = Color.White)
+            }
+        }
+    }
+}
